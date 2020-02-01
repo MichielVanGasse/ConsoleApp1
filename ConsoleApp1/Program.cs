@@ -22,7 +22,7 @@ namespace ConsoleApp1
 
         static void ChangeName(ref string x)
         {
-            x = "Nistor1";
+            x = "Nistor12";
         }
     }
 }
